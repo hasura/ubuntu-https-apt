@@ -1,0 +1,1 @@
+An ubuntu image configured with 'https://mirrors.edge.kernel.org/ubuntu'. The motivation being, some ISPs (ACT in India) seem to cache http responses to http apt mirrors which results in hash mismatches.
